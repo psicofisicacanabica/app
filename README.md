@@ -1,1 +1,1 @@
-# app
+This repository explores the causal effects of phytotherapeutic blends on anxiety and neurophysiological measures using causal network analysis and advanced statistical modeling. Large language models (LLMs) enhance text analysis, while SHAP and causal graphs reveal feature importance and relationships.
