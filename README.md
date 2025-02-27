@@ -62,10 +62,6 @@ Este framework é especialmente útil para:
 - Analistas de dados de saúde buscando padrões ocultos em respostas a tratamentos
 - Estudos de eficácia comparativa entre diferentes abordagens terapêuticas
 
-## Palavras-chave
-
-Descoberta de Subgrupos, Análise Direcionada, Intervenção Personalizada, Ansiedade, LLMs, SHAP, Visualização de Dados, Aprendizado de Máquina
-
 ## Autor
 
 Hélio Craveiro Pessoa Júnior
